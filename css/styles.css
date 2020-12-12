@@ -1,0 +1,25 @@
+.icon-container {
+    flex: 1;
+}
+
+.logo-icon {
+    font-size: 4rem;
+}
+
+.icon-number{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.icon-text{
+    font-size: 1rem;
+    font-weight: lighter;
+}
+
+.container-background-color{
+    background-color: antiquewhite;
+}
+
+.nav-bar-background-color{
+    background-color: burlywood;
+}
